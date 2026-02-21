@@ -1,5 +1,5 @@
 # Capstone-Project-1-Purwadhika: Aplikasi "Warung Makan Purwadhika"
-Program ini bertujuan untuk membantu pelaku UMKM F&B untuk membuat aplikasi sederhana untuk memesan makanan dan menambah/mengedit menu makanan/minuman. Aplikasi ini mendukung dua peran yang berbeda untuk menjalankan beberapa menu. Dua peran tersebut adalah Admin (pemilik usaha) dan User (pelanggan/customer). Admin adalah peran yang dapat mengakses semua menu di dalam program, termasuk dapat mengakses fitur yang sensitif seperti menambah menu, memperbaharui (update) menu, dan menu recycle bin. 
+Program ini bertujuan untuk membantu pelaku UMKM F&B untuk membuat aplikasi sederhana untuk memesan makanan dan menambah/mengedit menu makanan/minuman. Aplikasi ini mendukung dua peran yang berbeda ketika program dijalankan. Dua peran tersebut adalah Admin (pemilik usaha) dan User (pelanggan/customer). Admin adalah peran yang dapat mengakses semua menu di dalam program, termasuk dapat mengakses fitur yang sensitif seperti menambah menu, memperbaharui (update) menu, dan menu recycle bin. 
 
 ## Stakeholders
 1. Pelaku UMKM (User)
@@ -25,6 +25,10 @@ Berikut merupakan fitur dari aplikasi "Warung Makan Purwadhika":
 Fitur dengan simbol bintang atau *asterisk* (*) adalah fitur yang sensitif, yaitu hanya bisa diakses sehingga perlu melakukan login dengan memasukkan Username dan Password yang benar.
 
 ## Alur Program
+### Menu Utama
+<img width="421" height="170" alt="menu utama" src="https://github.com/user-attachments/assets/3f5e91d1-8422-4789-a88b-c3ead001005d" />
+
+
 ### Menambah Menu (Create)
 
 
