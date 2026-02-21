@@ -14,10 +14,10 @@ Berikut merupakan fitur dari aplikasi "Warung Makan Purwadhika":
 3. Perbaharui Menu*
 4. Recycle Bin*
     - Lihat Recycle Bin
-....* Hapus Menu
-....* Kembalikan Menu yang Dihapus
-   4.4 Kosongkan Recycle Bin
-   4.5 Keluar
+    - Hapus Menu
+    - Kembalikan Menu yang Dihapus
+    - Kosongkan Recycle Bin
+    - Keluar
 6. Mencari Menu Berdasarkan Kategori
 7. Pesan Makanan
 8. Exit Main Menu
@@ -25,3 +25,19 @@ Berikut merupakan fitur dari aplikasi "Warung Makan Purwadhika":
 Fitur dengan simbol bintang atau *asterisk* (*) adalah fitur yang sensitif, yaitu hanya bisa diakses sehingga perlu melakukan login dengan memasukkan Username dan Password yang benar.
 
 ## Alur Program
+### Menambah Menu (Create)
+
+
+### Menampilkan Menu (Read)
+
+
+### Perbaharui Menu (Update)
+
+
+### Recycle Bin (Delete)
+
+
+### Mencari Menu Berdasarkan Kategori (Filter)
+
+
+### Pesan Makanan
