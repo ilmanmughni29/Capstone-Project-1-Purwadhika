@@ -13,8 +13,8 @@ Berikut merupakan fitur dari aplikasi "Warung Makan Purwadhika":
 2. Menampilkan Menu
 3. Perbaharui Menu*
 4. Recycle Bin*
-   4.1 Lihat Recycle Bin
-   4.2 Hapus Menu
+* Lihat Recycle Bin
+* Hapus Menu
    4.3 Kembalikan Menu yang Dihapus
    4.4 Kosongkan Recycle Bin
    4.5 Keluar
