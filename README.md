@@ -1,4 +1,4 @@
-# Capstone-Project-1-Purwadhika: Aplikasi "Warung Makan Purwadhika"
+# Python CRUD Application for Selecting the Menu in a Restaurant
 Program ini bertujuan untuk membantu pelaku UMKM F&B untuk membuat aplikasi sederhana untuk memesan makanan dan menambah/mengedit menu makanan/minuman. Aplikasi ini mendukung dua peran yang berbeda ketika program dijalankan. Dua peran tersebut adalah Admin (pemilik usaha) dan User (pelanggan/customer). Admin adalah peran yang dapat mengakses semua menu di dalam program, termasuk dapat mengakses fitur yang sensitif seperti menambah menu, memperbaharui (update) menu, dan menu recycle bin. 
 
 ## Dependency
