@@ -31,6 +31,7 @@ Fitur dengan simbol bintang atau *asterisk* (*) adalah fitur yang sensitif, yait
 ## Alur Program
 ### Menu Utama
 <img width="421" height="170" alt="menu utama" src="https://github.com/user-attachments/assets/3f5e91d1-8422-4789-a88b-c3ead001005d" />
+
 Saat program dijalankan, Menu ini yang akan ditampilkan pertama kali
 
 
