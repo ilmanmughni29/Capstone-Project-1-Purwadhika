@@ -116,4 +116,4 @@ Berikut merupakan diagram alur ketika "Opsi 6: Pesan Makanan" dijalankan.
 ## Contributing
 Jika terdapat pertanyaan, mengalami masalah, atau memiliki saran untuk perbaikan, silahkan email ke ilmanmughni29@gmail.com.
 
-We welcome contributions to this project! If you have any inquiries or submit an issue if you encounter any problems or have suggestions for improvements, feel free to email me to ilmanmughni29@gmail.com.
+We welcome contributions to this project! If you have any inquiries, encounter any problems, or have suggestions for improvements, please feel free to email me to ilmanmughni29@gmail.com.
